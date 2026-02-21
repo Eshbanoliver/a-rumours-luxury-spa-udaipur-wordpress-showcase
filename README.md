@@ -17,7 +17,6 @@ Custom WordPress website developed for A Rumours Luxury Spa, a high-end wellness
 - Stats counters: 4+ Years Experience, 99% Client Retention Rate, 98k Quality Assurance, 5-Star Client Rating
 - Testimonials carousel with real feedback on indulgent treatments, ambiance, and satisfaction
 - Gallery of spa interiors, treatment rooms, and relaxing moments
-- Contact/Booking section with phone (+91-77280 98888), email (rumoursluxuryspa@gmail.com), address (Sec 11 Apeksha Apartment, Udaipur, Rajasthan 313001), and inquiry form
 - Responsive, luxurious design optimized for wellness visuals (mobile-first)
 - SEO-friendly for local Udaipur luxury spa/massage searches
 
